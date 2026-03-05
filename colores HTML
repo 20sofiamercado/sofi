@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  background-color: #F5C9D7;
+}
+
+div {
+  background-color:#EB6A9A;
+font-size: 30px;
+
+p {
+  background-color: #FFD6E6;
+}
+</style>
+</head>
+<body>
+
+<h1>CSS background-color example!</h1>
+<div>
+This is a text inside a div element.
+<p>This paragraph has its own background color.</p>
+We are still in the div element.
+</div>
+
+</body>
+</html>
